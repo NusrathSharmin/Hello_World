@@ -1,4 +1,4 @@
-# Hello_World
+# About_me
 
 Hi,I am Nijhum.
 Recently I completed my graduation on Computer Science and Engineering.
