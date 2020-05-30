@@ -1,2 +1,5 @@
-# Hello_World
-First Repository
+# About_me
+
+Hi,I am Nijhum.
+Recently I completed my graduation on Computer Science and Engineering.
+I want to be a full stack web developer.
